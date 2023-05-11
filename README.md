@@ -35,12 +35,12 @@
 
 # 🌐 Contato
 <div>
-    <a href="https://www.linkedin.com/in/joaquim-chianca/?originalSubdomain=br">
+    <a href="https://www.linkedin.com/in/joaquim-chianca/?originalSubdomain=br" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
 <div>
-    <a href="https://www.linkedin.com/in/joaquim-chianca/?originalSubdomain=br">
+    <a href="mailto:joaquimchianca@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/joaquimchianca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </div>
