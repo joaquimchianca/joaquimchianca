@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+up?;Make+yourself+comfortable+👋)](https://git.io/typing-svg)
 # 👨🏻‍💻 Sobre mim
 - 🤔 &nbsp; Explorando novas tecnologias e programando.
-- 🎓 &nbsp; Estudando Tecnologia da Informação na UFRN.
-- 🌱 &nbsp; Aprendendo mais sobre Algoritmos e Estrutura de Dados e RESTful APIs com Java.
+- 🎓 &nbsp; Graduando em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte.
+- 🌱 &nbsp; Aprendendo mais sobre Algoritmos e Estrutura de Dados, desenvolvimento backend e mobile utilizando Kotlin.
 
 <img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
